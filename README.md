@@ -82,7 +82,6 @@ npm run preview
 ```
 src/
 ├── api/            # Konfigurasi axios
-├── app/            # Redux store
 ├── components/
 │   ├── base/       # Komponen reusable (FormField, StatCard, dll)
 │   ├── composite/  # Komponen gabungan (Sidebar, Table, Modal, dll)
@@ -94,5 +93,6 @@ src/
 │   └── transactions/ # Halaman & slice transactions
 ├── helpers/        # Fungsi utilitas
 ├── hooks/          # Custom hooks
-└── routes/         # Konfigurasi routing
+├── routes/         # Konfigurasi routing 
+└── store/          # Redux store
 ```
