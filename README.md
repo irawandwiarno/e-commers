@@ -36,7 +36,7 @@ Pastikan sudah terinstall:
 ### 1. Clone Repository
 
 ```bash
-git clone <url-repository>
+git clone https://github.com/irawandwiarno/e-commers.git
 cd paket-data
 ```
 
